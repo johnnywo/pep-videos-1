@@ -65,6 +65,7 @@
             <li><a href="geschichten-zum-frieden.php">Geschichten zum Frieden (Dauer 14:48)</a></li>
             <li><a href="tprf-peace-edu-program.php">TPRF's Peace Education Program (PEP) (Dauer 3:32)</a></li>
             <li><a href="what-the-heart-is.php">What the heart is (Dauer 10:23)</a></li>
+            <li><a href="peace-on-the-outside.php">Peace on the Outside (Dauer 16:48)</a></li>
         </ul>
         <br>
         <h3>Englisch</h3>
