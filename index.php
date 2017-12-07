@@ -91,6 +91,7 @@
             <li><a href="inside-peace-screening.php">Inside Peace Screening - Celebrate Life Events (Dauer 7:33)</a></li>
             <li><a href="pr-european-parliament.php">Prem Rawat at the European Parliament, Brussels, Belgium 2010 (Dauer 24:24)</a></li>
             <li><a href="http://www.tprf.org/category/news/">TPRF.org NEWS</a></li>
+            <li><a href="jeremy-gilley-im-gespraech-mit-prem-rawat.php">Friedensstifter - Jeremy Gilley im Gespräch mit Prem Rawat (Dauer 28:12)</a></li>
         </ul>
         <br>
         <h3>Diashow mit Musik</h3>
