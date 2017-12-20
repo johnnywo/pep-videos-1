@@ -93,6 +93,7 @@
             <li><a href="http://www.tprf.org/category/news/">TPRF.org NEWS</a></li>
             <li><a href="jeremy-gilley-im-gespraech-mit-prem-rawat.php">Friedensstifter - Jeremy Gilley im Gespräch mit Prem Rawat (Dauer 28:12)</a></li>
             <li><a href="peace-education-in-columbia.php">Peace Education in Columbia (Dauer 10:37)</a></li>
+            <li><a href="sharing-a-dream.php">Sharing a Dream (Dauer 9:57)</a></li>
         </ul>
         <br>
         <h3>Diashow mit Musik</h3>
