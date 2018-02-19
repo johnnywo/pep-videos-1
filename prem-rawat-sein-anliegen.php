@@ -30,7 +30,7 @@
     <div class="col-sm-6 col-sm-offset-3">
         <h1>Prem Rawat - Sein Anliegen</h1>
         <br>
-        <iframe width="640" height="360" src="https://www.youtube.com/embed/AofHV43MfQ0?rel=0?ecver=1" frameborder="0" allowfullscreen></iframe>
+        <iframe width="640" height="360" src="https://www.youtube.com/embed/AofHV43MfQ0?rel=0" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 </body>
