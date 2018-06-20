@@ -71,6 +71,7 @@
         <h3>Englisch</h3>
         <hr>
         <ul>
+            <li><a href="bbc-news.php">15. Juni 2018, BBC und Londoner Bürgermeister propagieren das Friedensbildungsprogramm für alle Schüler ab 14 Jahren (Dauer 47s)</a></li>
             <li><a href="inside-peace.php">Inside Peace (Dauer 1:33:27)</a></li>
             <li><a href="waf-award-2014-london.php">WAF Award, London 2014 (Dauer 23:53)</a></li>
             <li><a href="prem-rawats-patron-speech.php">Prem Rawats Patron Speech (Dauer 5:03)</a></li>
