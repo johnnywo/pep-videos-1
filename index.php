@@ -52,6 +52,7 @@
         <h3>mit deutschen Untertiteln</h3>
         <hr>
         <ul>
+            <li><a href="light-up-the-world.php">Light up the World (Dauer 4:15)</a></li>
             <li><a href="frieden-fuehlen.php">Einführung in den Friedenskurs (Dauer 5:59)</a></li>
             <li><a href="prem-rawat-sein-anliegen.php">Prem Rawat - Sein Anliegen (Dauer 4:13)</a></li>
             <li><a href="suche-nach-der-eigenen-natur.php">Suche nach der eigenen Natur (Dauer 27:55)</a></li>
