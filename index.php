@@ -98,6 +98,7 @@
             <li><a href="sharing-a-dream.php">Sharing a Dream (Dauer 9:57)</a></li>
             <li><a href="peace-education-and-rehabilitation.php">Peace Education and Rehabilitation (Dauer 14:00)</a></li>
             <li><a href="peace-the-most-practical-tool.php">Peace: the most practical tool (Dauer 22:39)</a></li>
+            <li><a href="change-through-peace-education.php">Change through peace education (Dauer 07:16)</a></li>
         </ul>
         <br>
         <h3>Diashow mit Musik</h3>
