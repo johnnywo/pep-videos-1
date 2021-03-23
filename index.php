@@ -2,7 +2,6 @@
 <html lang="{{ config('app.locale') }}">
 
 <head>
-    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -53,7 +52,7 @@
             <h3>mit deutschen Untertiteln</h3>
             <hr>
             <ul>
-                <li><a href="einfuehrung-pep-kurs.php"></a>Einführung PEP Kurs (Dauer 9:42)</li>
+                <li><a href="einfuehrung-pep-kurs.php">Einführung PEP Kurs (Dauer 9:42)</a></li>
                 <li><a href="light-up-the-world.php">Light up the World (Dauer 4:15)</a></li>
                 <li><a href="frieden-fuehlen.php">Einführung in den Friedenskurs (Dauer 5:59)</a></li>
                 <li><a href="prem-rawat-sein-anliegen.php">Prem Rawat - Sein Anliegen (Dauer 4:13)</a></li>
